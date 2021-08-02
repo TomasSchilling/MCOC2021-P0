@@ -2,54 +2,49 @@
 
 # Mi computador principal
 
-* Marca/modelo: System 76 Serval WS
+* Marca/modelo: Dell inspiron 7559
 * Tipo: Notebook
-* Año adquisición: 2015
+* Año adquisición: 2018
 * Procesador:
-  * Marca/Modelo: Intel Core i7-4790K
-  * Velocidad Base: 4.00 GHz
-  * Velocidad Máxima: 4.40 GHz
+  * Marca/Modelo: Intel® Core™ i5-6300HQ
+  * Velocidad Base: 2.3GHz (6M Cache ).
+  * Velocidad Máxima: up to 3.20GHz
   * Numero de núcleos: 4 
-  * Humero de hilos: 2
+  * Humero de hilos: 4
   * Arquitectura: x86_64
-  * Set de instrucciones: Intel SSE4.1, Intel SSE4.2, Intel AVX2
+  * Set de instrucciones: Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2
 * Tamaño de las cachés del procesador
-  * L1d: 32KB
-  * L1i: 32KB
-  * L2: 256KB
-  * L3: 8192KB
+  * L1d: 256 kB
+  * L2: 1.0 MB
+  * L3: 6.0 MB
 * Memoria 
-  * Total: 32 GB
-  * Tipo memoria: DDR3
-  * Velocidad 1867 MHz
-  * Numero de (SO)DIMM: 4
+  * Total: 8GB 1 DIMM (1x8GB) 
+  * Tipo memoria: DDR3L
+  * Velocidad 1600 Mhz
+  * Numero de (SO)DIMM: 1
+  * Form Factor: SODIMM.
 * Tarjeta Gráfica
-  * Marca / Modelo: Nvidia GeForce GTX 980M
-  * Memoria dedicada: 8192 MB
+  * Marca / Modelo: NVIDIA GeForce 960M
+  * Memoria dedicada: 4 GB GDDR5 a 5 GHz
   * Resolución: 1920 x 1080
 * Disco 1: 
-  * Marca: Samsung
-  * Tipo: SSD
-  * Tamaño: 1TB
-  * Particiones: 4
-  * Sistema de archivos: EXT4, swap
+  * Marca: Marca: SanDisk Modelo: Z400s M.2 2280.
+  * Tipo: SSD M2  (5400rpm) sin particion .
+  * Tamaño: 256 GB
+  * Particiones: 1
+  * Sistema de archivos: 
 * Disco 2: 
-  * Marca: Samsung
-  * Tipo: SSD
-  * Tamaño: 1TB
+  * Marca: WDC (china) Modelo : Wd5000BPVT.
+  * Tipo: HDD SATA (5400rpm) sin particion.
+  * Tamaño: 512 GB
   * Particiones: 1
-  * Sistema de archivos: EXT4
-* Disco 3: 
-  * Marca: Samsung
-  * Tipo: SSD
-  * Tamaño: 1TB
-  * Particiones: 1
-  * Sistema de archivos: EXT4
+  * Sistema de archivos: 
+
   
-* Dirección MAC de la tarjeta wifi: 5C:E0:C5:D7:EE:48 
-* Dirección IP (Interna, del router): 192.168.0.129
-* Dirección IP (Externa, del ISP): 190.45.122.34
-* Proveedor internet: VTR Banda Ancha S.A.
+* Dirección MAC de la tarjeta wifi: 
+* Dirección IP (Interna, del router): 192.168.1.235
+* Dirección IP (Externa, del ISP): 
+* Proveedor internet: GTD Mnaquehue, Fibra Optica
 
 
 
