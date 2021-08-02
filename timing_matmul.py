@@ -1,3 +1,5 @@
+  
+# la misma pero la subo yo ( eso entendi) 
 from numpy import zeros
 from time import perf_counter
 
@@ -18,3 +20,4 @@ dt = t2 - t1
 
 print(f"dt = {dt} s")
 
+# dt = 0.09375370000088878 s
