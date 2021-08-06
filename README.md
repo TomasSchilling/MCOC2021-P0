@@ -49,7 +49,7 @@
 
 
 # Resultados Matmul
-(https://github.com/TomasSchilling/MCOC2021-P0/blob/main/Graficos%20trabajo%20matmul.png)
+![https://github.com/TomasSchilling/MCOC2021-P0/blob/main/Graficos%20trabajo%20matmul.png]
 * El grafico del profesor y del alumno difieren mas que nada en la fluctuacion del los valores couendo se trabaja con matrices de tamano mediano, es decir n= 100, 200.
 La memoria sigue en bosquejo simlar, mas que nada varia en la primera seccion del , pero luego sigue la linea de menara equitativa.
 * as diferencias en cada corrida puede deberse al mayor o menor uso de el pprocesador para procesos cortos, donde este puede verse afectado por realizar otras tareas dependientes del mismo computador, como tambien a la apertira de otro procesador para el calculo de la matriz.
