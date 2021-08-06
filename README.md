@@ -48,4 +48,12 @@
 
 
 
+# Resultados Matmul
 
+* El grafico del profesor y del alumno difieren mas que nada en la fluctuacion del los valores couendo se trabaja con matrices de tamano mediano, es decir n= 100, 200.
+La memoria sigue en bosquejo simlar, mas que nada varia en la primera seccion del , pero luego sigue la linea de menara equitativa.
+* as diferencias en cada corrida puede deberse al mayor o menor uso de el pprocesador para procesos cortos, donde este puede verse afectado por realizar otras tareas dependientes del mismo computador, como tambien a la apertira de otro procesador para el calculo de la matriz.
+* el grafico de tiempos no es linearl debido a que el tiemp ode prosesamiento no es continuo, varia dpendiendo de lo mencionado anteriormente, sim embargo, para guardar informacion se necesita el mismo especio para guardar un dato en un pc, si es del mismo tipo de archivo (float 32, float 64, etc)
+* Se usa la version python 3.8.5 en spyder version 4.1.5
+* numpy version: 1.19.2
+* se llegaron a utilizar todos los procesadores, el screenshort es el siguiente
