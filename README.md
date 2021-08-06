@@ -57,3 +57,4 @@ La memoria sigue en bosquejo simlar, mas que nada varia en la primera seccion de
 * Se usa la version python 3.8.5 en spyder version 4.1.5
 * numpy version: 1.19.2
 * se llegaron a utilizar todos los procesadores, el screenshort es el siguiente
+* ![sreenshot](https://github.com/TomasSchilling/MCOC2021-P0/blob/main/sreenshot.png)
