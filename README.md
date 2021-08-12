@@ -61,7 +61,7 @@ La memoria sigue en bosquejo simlar, mas que nada varia en la primera seccion de
 
 
 # Resultados Inversa
-* ![Graficos trabajo matmul](https://github.com/TomasSchilling/MCOC2021-P0/blob/main/Graficos%20trabajo%20matmul.png)
+* ![Entrega 3 Grafico](https://github.com/TomasSchilling/MCOC2021-P0/blob/main/Entrega%203%20Grafico.png)
 * el grafico mostrado anteriormente muestra una diferencia entre levemente significativa entre los tiempos al aumentar el tipo de dato. al almacenar mas espacio ne cuardar el archivo requiere mas tiempo para la resulucion del a inversa.
 * para el caso de la memoria que requiere para almacenar cada archivo se note una diferencia entre 2 sistemas distintos, no se aprecia una diferencie netre half y simple con doble y longdoble.
 *
