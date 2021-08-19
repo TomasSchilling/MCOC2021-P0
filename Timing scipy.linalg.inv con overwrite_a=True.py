@@ -24,7 +24,7 @@ valores=[5,10,20,50,100,200,500,1000,2000,3000,5000]
 
 # ##################### Este valor de i se cambia para los 4 datos ##########################
 dicc={0:np.half, 1:np.single,2:np.double, 3:np.longdouble}
-i=4
+i=3
 
 #           inversa numpy
 try:
@@ -89,5 +89,5 @@ yTicks_Text = ['1KB','10KB','100KB','1MB','10MB','100MB','1GB','10GB']
 
 plt.yticks(yTicks, yTicks_Text)
 plt.xticks(xTicks, xTicks_Text) 
-
+plt.savefig(f" True {i} ")
 plt.show()
