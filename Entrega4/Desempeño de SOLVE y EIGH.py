@@ -97,4 +97,12 @@ for floa in range(2):
             l.append(num/len(Tiempos))
         Grafo_promedio_eigh.append(l)
     graficar(valores,Grafo_promedio_eigh, f"resumen graficos eigh usando "+ str(floa),i)
-        
+
+
+Comentario=""" Luego de termianr de realizar todas las operaciones y revisar los graficos se comprueba que hay 
+diferencias entre el tipo de metodo utillizado para obtener la matriz de solucion a la ecuacion, todas las pendientes
+presentan algunos metodos presentan mejores rendimiento en general a lo largo del proceso, se nota bien si que algunos
+procesos generen una leve mejora en el tiempo al aumentar mas su tamano de la matriz de resolucion. 
+A lo largo del sistema fueron requeridos mas de un procesasor, la memoria Rondo por el 80% de su uso de manera constante
+EL metodo mas efectivo puede afectarse del tamano de la matriz, en los graficos resumen se ve esto a medida que se 
+agranda el tamano de esta matriz. """
